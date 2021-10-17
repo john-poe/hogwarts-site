@@ -21,7 +21,7 @@ const Footer = () => {
       }
     }
   `)
-
+/*
   return (
     <div className="container py-12 md:flex md:items-center md:justify-between">
       <ul className="flex justify-center md:order-2">
@@ -62,5 +62,5 @@ const FooterLink = ({ href, label, icon: Icon }) => {
     </li>
   )
 }
-
+*/
 export default Footer
