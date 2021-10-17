@@ -64,3 +64,4 @@ Run in the project locally.
 #### `gatsby build`
 
 Run a production build into `./public`. The result is ready to be put on any static hosting you prefer.
+# hogwarts-site
