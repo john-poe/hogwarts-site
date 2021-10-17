@@ -12,7 +12,6 @@ module.exports = {
   siteMetadata: {
     menu: [
       { name: "Home", to: "/" },
-      { name: "About", to: "/about" },
     ],
     links: {
       facebook: "https://www.facebook.com/",
@@ -21,9 +20,9 @@ module.exports = {
       twitter: "https://twitter.com/",
     },
     locale: "en",
-    title: `John Doe`,
-    description: `Photography portfolio of John Doe`,
-    author: `@johndoe`,
+    title: `Hogwarts`,
+    description: `All Things Harry Potter`,
+    author: `@johnpoe`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
@@ -54,10 +53,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `John Doe`,
-        short_name: `johndoe`,
+        name: `Hogwarts`,
+        short_name: `Hogwarts`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#000000`,
         theme_color: `#3182ce`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
