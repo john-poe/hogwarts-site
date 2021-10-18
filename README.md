@@ -2,7 +2,7 @@
 
 A Harry Potter site with additional information on the books and movies in the series. 
 
-Visit [https://www.hogwarts-site.netlify.app](https://www.hogwarts-site.netlify.app)
+Visit [https://hogwarts-site.netlify.app/](https://hogwarts-site.netlify.app/)
 
 ## Site created from:
 
