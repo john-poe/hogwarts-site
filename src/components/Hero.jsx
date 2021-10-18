@@ -6,7 +6,7 @@ const Hero = () => (
       A Hogwarts Site{" "}
       <br />
       <span className="text-blue-600">
-        Welcome to all things Hogwarts.
+        Welcome to all things Harry Potter
       </span>
     </h2>
   </div>
