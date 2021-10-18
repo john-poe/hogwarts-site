@@ -29,27 +29,7 @@ const Newsletter = () => {
 
   return (
     <div className="container py-12 lg:py-16">
-      /*<h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 leading-tight tracking-tight">
-        Sign up for my newsletter
-      </h2>
-      <form className="mt-8 sm:flex" onSubmit={handleSubmit}>
-        <input
-          aria-label="Email address"
-          className="appearance-none w-full sm:max-w-xs px-5 py-3 border border-gray-400 leading-snug rounded-md text-gray-900 bg-white placeholder-gray-600 focus:outline-none focus:shadow-outline focus:border-blue-300 transition duration-150 ease-in-out"
-          onChange={event => setEmail(event.target.value)}
-          placeholder="Enter your email"
-          required
-          type="email"
-        />
-        <div className="mt-3 sm:mt-0 sm:ml-3 sm:flex-shrink-0">
-          <Button disabled={disabled}>Sign up</Button>
-        </div>
-      </form>
-      <div
-        className={classNames("w-full pt-4 text-sm", { "opacity-0": !message })}
-      >
-        {message}
-      </div>*/
+
     </div>
   )
 }
