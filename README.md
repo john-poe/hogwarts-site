@@ -2,13 +2,13 @@
 
 A Harry Potter site with additional information on the books and movies in the series. 
 
-Site created from:
+Visit [https://www.hogwarts-site.netlify.app](https://www.hogwarts-site.netlify.app)
 
-### Portfolio theme for Gatsby
+## Site created from:
 
-### Gatsby starter theme integrated with [Contentful](https://www.contentful.com)
+Portfolio theme for Gatsby
 
-### Demo
+Gatsby starter theme integrated with [Contentful](https://www.contentful.com)
 
 Live demo is available at:
 https://gatsby-contentful-portfolio.netlify.com/
