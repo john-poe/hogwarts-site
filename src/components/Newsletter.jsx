@@ -29,7 +29,7 @@ const Newsletter = () => {
 
   return (
     <div className="container py-12 lg:py-16">
-      <h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 leading-tight tracking-tight">
+      /*<h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 leading-tight tracking-tight">
         Sign up for my newsletter
       </h2>
       <form className="mt-8 sm:flex" onSubmit={handleSubmit}>
@@ -49,7 +49,7 @@ const Newsletter = () => {
         className={classNames("w-full pt-4 text-sm", { "opacity-0": !message })}
       >
         {message}
-      </div>
+      </div>*/
     </div>
   )
 }
